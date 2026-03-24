@@ -4,7 +4,7 @@
 ## 🚀 Project Overview
 
 This project is a **scalable Movie Ticket Booking System** inspired by BookMyShow.
-It is designed using **Spring Boot, Kafka, and Redis** to handle **high concurrency**, prevent **double booking**, and ensure **reliable payment processing** using an **event-driven architecture**.
+It is designed using **Spring Boot, microservices, Kafka, and Redis** to handle **high concurrency**, prevent **double booking**, and ensure **reliable payment processing** using an **event-driven architecture**.
 
 ---
 
