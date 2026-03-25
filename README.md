@@ -61,9 +61,7 @@ Notification Service
 
 ## 🚀 Future Enhancements
 
-* ⏳ Seat lock expiry (auto-release after timeout)
 * 💳 Real payment gateway integration (Stripe/Razorpay)
-* 📊 Monitoring with Prometheus & Grafana
 * ☁️ Deployment using Docker & AWS
 
 ---
